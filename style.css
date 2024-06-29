@@ -18,6 +18,7 @@
     justify-content: space-between;
     padding: 15px;
     align-items: center;
+    background-color: #e8e8e6;
 }
 
 .nav-links a{
@@ -82,4 +83,6 @@ header{
     color: #5b6b7f;
     font-weight: bold;
  }
+
+ 
 
